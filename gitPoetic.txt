@@ -1,6 +1,11 @@
 His life was a paradox
+<<<<<<< HEAD
 He loved me to the moon and back
 He loved me to the moon and back
 He loved me to the moon and back
 He loved me to the moon and back
+He loved me to the moon and back
+=======
+He was devoted yet relaxed
+>>>>>>> bd03771395de027108a44e55cba3eb363224ce74
 He loved me to the moon and back
