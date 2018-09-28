@@ -1,3 +1,7 @@
 His life was a paradox
 He was devoted yet relaxed
+<<<<<<< HEAD
 His life was a paradox
+=======
+He loved me to the moon and back
+>>>>>>> 405290772eb2ef7bca1a74a5ca9af5d2964c7834
