@@ -1,3 +1,7 @@
 His life was a paradox
+<<<<<<< HEAD
 “He was devoted yet relaxed”
+He was devoted yet relaxed
+=======
+>>>>>>> 5c7d1bfcbd85241812ab5a4e41e37d11bbc07b00
 He was devoted yet relaxed
